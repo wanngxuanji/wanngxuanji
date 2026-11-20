@@ -29,7 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanngxuanji&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanngxuanji&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
-</div>
