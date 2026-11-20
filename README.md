@@ -5,16 +5,15 @@
   Im nothing...
   <img align="right" src="https://lanyard-profile-readme.vercel.app/api/853356342605381653?bg=00000000" />
 
-  [💼 linkedin](https://www.linkedin.com/in/wanng-xuanji-924340440/) \
-  [🎨 behance](https://www.behance.net/wanngxuanji) \
   [💬 discord](https://discordapp.com/users/853356342605381653)
+  <br clear="both" />
 </details>
 
 <details>
   <summary>📊 Some stats of me</summary>
 
-![My github stats!](https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)![My github stats!](https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00AA88&text_color=24292f&hide_border=true&hide_title=true#gh-light-mode-only) \
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wanngxuanji&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wanngxuanji&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00AA88&text_color=24292f&hide_border=true&hide_title=true#gh-light-mode-only)
+![My github stats!](https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&line_height=33&bg_color=00000000&title_color=00CCAA&text_color=9aa5b1&icon_color=00CCAA&hide_border=true&hide_title=true) \
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wanngxuanji&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=9aa5b1&hide_border=true&hide_title=true)
 </details>
 
 <details>
