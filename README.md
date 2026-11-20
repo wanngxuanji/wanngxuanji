@@ -1,16 +1,9 @@
 <div align="center">
-  
-  <h1>Hi there, I'm Wanngxuanji 👋</h1>
-  <a href="https://github.com/wanngxuanji">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=IT+Student;CTF+Player;Reverse+Engineer;Pwnable+Enthusiast" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=wanngxuanji&label=Profile%20views&color=2196F3&style=flat" alt="Profile Views" />
   </p>
-  
+
   <br/>
 
   <h3>🌐 Let's Connect</h3>
@@ -27,18 +20,6 @@
   </p>
 
 </div>
-
----
-
-### 🎯 About Me
-Just a regular IT student with a growing interest in CTF competitions. I am currently learning and exploring:
-- 🔬 **Reverse Engineering**
-- 💥 **Pwnable**
-
----
-
-### 🏆 Achievements
-- 🚩 **Cybersecurity Student Contest Vietnam (CSCV) 2026 CTF**: Ranked **#149** (Score: **1100**).
 
 ---
 
