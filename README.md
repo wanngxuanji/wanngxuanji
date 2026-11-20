@@ -1,31 +1,28 @@
-<div align="center">
+<a href="https://github.com/wanngxuanji" target="_blank" rel="noopener noreferrer"><img align="right" src="./assets/logo.png" height="110" /></a>
+<details>
+  <summary><b>📋 About</b></summary>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=wanngxuanji&label=Profile%20views&color=2196F3&style=flat" alt="Profile Views" />
-  </p>
+  Im nothing...
+  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/853356342605381653?bg=00000000" />
 
-  <br/>
+  [💼 linkedin](https://www.linkedin.com/in/wanng-xuanji-924340440/) \
+  [🎨 behance](https://www.behance.net/wanngxuanji) \
+  [💬 discord](https://discordapp.com/users/853356342605381653)
+</details>
 
-  <h3>🌐 Let's Connect</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/wanng-xuanji-924340440/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.behance.net/wanngxuanji" target="_blank">
-      <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat&logo=behance&logoColor=white" alt="Behance" />
-    </a>
-    <a href="https://discordapp.com/users/853356342605381653" target="_blank">
-      <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-  </p>
+<details>
+  <summary>📊 Some stats of me</summary>
 
-</div>
+![My github stats!](https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)![My github stats!](https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00AA88&text_color=24292f&hide_border=true&hide_title=true#gh-light-mode-only) \
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wanngxuanji&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=wanngxuanji&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00AA88&text_color=24292f&hide_border=true&hide_title=true#gh-light-mode-only)
+</details>
 
----
+<details>
+  <summary>🌸 My Filmlist</summary>
 
-### 📊 GitHub Stats
+- 🎬 **战斗王之飓风战魂** (S1-S3)
+- 🎬 **虹猫蓝兔七侠传** (S1-S4)
+- 🎬 **カードファイト!! ヴァンガード** (S1-S4)
+- 🎬 **火力少年王** (S1-S7)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wanngxuanji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanngxuanji&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
-</div>
+</details>
